@@ -1,18 +1,22 @@
 <!-- docs/_sidebar.md -->
 
-- 00-09 Meta
+- Meta
   - [00.blog](/meta/00/00.blog.md)
   - [01.about](/meta/01.about.md)
-- 10-19 Env
+- Env
   - [10.linux](/devenv/10/10.linux.md)
   - [11.neovim](/devenv/11/11.neovim.md)
   - [12.ides](/devenv/12/12.ides.md)
-- 20-29 Learn
+- Learn
   - [20.programming_languages](/learn/20/20.programming_languages.md)
   - [21.computer_science](/learn/21/21.computer_science.md)
-- 30-39 Projects
+- Projects
   - [33.kandoban](/projects/33/kandoban.md)
-- 40-49 Tech
-- 50-59 Entertainment
+- Tech
+- Entertainment
   - [50.books](/entertainment/50/50.books.md)
   - [51.gaming](/entertainment/51/51.gaming.md)
+  - [52.tv_shows](/entertainment/52/52.tv_shows.md)
+  - [53.movies](/entertainment/53/53.movies.md)
+  - [54.music](/entertainment/54/54.music.md)
+  - [59.misc](/entertainment/59/59.misc.md)
