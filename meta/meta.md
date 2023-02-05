@@ -1,5 +1,6 @@
 # Meta & Management
 * [00.blog](00/00.blog.md)
+* [01 about](01.about.md)
 
 ## Site generation:
 * [docsify](https://docsify.js.org/#/?id=docsify):
