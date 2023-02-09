@@ -7,6 +7,8 @@
   - [10.linux](/devenv/10/10.linux.md)
   - [11.neovim](/devenv/11/11.neovim.md)
   - [12.ides](/devenv/12/12.ides.md)
+  - [13.ides](/devenv/13/13.general.md)
+    - [13.01.colemak](/devenv/13/13.01.colemak.md)
 - Learn
   - [20.programming_languages](/learn/20/20.programming_languages.md)
   - [21.computer_science](/learn/21/21.computer_science.md)
