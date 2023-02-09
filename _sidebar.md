@@ -14,6 +14,7 @@
   - [21.computer_science](/learn/21/21.computer_science.md)
 - Projects
   - [33.kandoban](/projects/33/kandoban.md)
+  - [34.kandodev (codevion)](/projects/34/kandodev.md)
 - Tech
 - Entertainment
   - [50.books](/entertainment/50/50.books.md)
