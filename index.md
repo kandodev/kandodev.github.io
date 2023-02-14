@@ -2,7 +2,7 @@
 
 This is part of a collection of all my personal notes made available online! The structure of this website loosely follows the [Johnny Decimal](https://johnnydecimal.com/) system. You can peruse the meta sections for more details about the website/author! This is stored entirely using markdown and rendered using [docsify](https://docsify.js.org/#/). 
 
-The notes are in a transition state from a previous pkm that contained everything from personal stuff to work stuff and everything in between.
+The notes are in a transition state from a previous pkm that contained everything from personal stuff to work stuff and everything in between so might have gaps.
 
 ## Areas
 
