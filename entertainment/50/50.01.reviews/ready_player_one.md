@@ -1,0 +1,2 @@
+# Ready Player One - 3.5/5 - (Reviewed in 2013)
+Sometimes the 80's references became too much so I found myself skimming over those parts. The indentured servant parts also stretched my suspension of disbelief. Other than those two things, I found myself really enjoying the read about a future where people spend most of their lives immersed in an online world. The development on the hunt was also very well thought out and kept me guessing.
